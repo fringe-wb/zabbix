@@ -15,5 +15,6 @@
 15，lvs监控
 16，keepalived监控
 17，docker监控
+18，ldap集成
 .... 
 未完待续
